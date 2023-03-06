@@ -5,3 +5,4 @@ junit-results
 allure-report
 .tsbuild
 target
+.idea/
